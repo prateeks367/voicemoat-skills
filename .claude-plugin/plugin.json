@@ -1,6 +1,7 @@
 {
   "name": "voicemoat-skills",
-  "version": "1.0.0",
+  "displayName": "VoiceMoat Skills",
+  "version": "1.0.1",
   "description": "Free Claude skills for writing on LinkedIn and Twitter: write in your voice, audit a draft before you publish, draft comments that add something, fix a dead opening, read your numbers honestly, and plan the week. They work on their own, and connect to VoiceMoat for a voice profile trained on your own published posts.",
   "author": {
     "name": "VoiceMoat",
@@ -9,6 +10,10 @@
   "homepage": "https://voicemoat.com/claude-skills",
   "repository": "https://github.com/prateeks367/voicemoat-skills.git",
   "license": "MIT",
+  "documentationUrl": "https://docs.voicemoat.com/engaging/free-claude-skills",
+  "supportUrl": "https://voicemoat.com/contact",
+  "privacyPolicyUrl": "https://voicemoat.com/privacy",
+  "termsOfServiceUrl": "https://voicemoat.com/terms",
   "keywords": [
     "linkedin",
     "twitter",
