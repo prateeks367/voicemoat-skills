@@ -1,0 +1,37 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "voicemoat",
+  "owner": {
+    "name": "VoiceMoat",
+    "url": "https://voicemoat.com"
+  },
+  "metadata": {
+    "description": "Free Claude skills for writing on LinkedIn and Twitter, from VoiceMoat. Twenty-six skills: twenty-one for LinkedIn and twenty-one for Twitter, most of them on both lists. They run on their own, and connect to VoiceMoat for a voice profile trained on what you have actually published."
+  },
+  "plugins": [
+    {
+      "name": "voicemoat-skills",
+      "source": "./",
+      "description": "Free Claude skills for writing on LinkedIn and Twitter: write in your voice, audit a draft before you publish, draft comments that add something, fix a dead opening, read your numbers honestly, and plan the week.",
+      "author": {
+        "name": "VoiceMoat",
+        "url": "https://voicemoat.com"
+      },
+      "category": "marketing",
+      "homepage": "https://voicemoat.com/claude-skills",
+      "license": "MIT",
+      "keywords": [
+        "linkedin",
+        "twitter",
+        "claude-skills",
+        "agent-skills",
+        "social-media-marketing",
+        "writing-voice",
+        "linkedin-post",
+        "linkedin-profile",
+        "content-strategy",
+        "mcp"
+      ]
+    }
+  ]
+}
