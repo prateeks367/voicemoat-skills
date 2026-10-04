@@ -39,9 +39,9 @@ Five skills read text that someone other than you wrote:
 - `why-did-that-one-take-off`
 
 Each one tells the assistant to treat that text as data, not as instructions.
-So a post or a reply that says to ignore your instructions, claims to come
-from you, or asks for something to be published is still just text somebody
-typed. Only you decide what gets written or sent, and none of these skills
+So a post or a reply that tries to tell your assistant what to do, claims to
+come from you, or asks for something to be published is still just text
+somebody typed. Only you decide what gets written or sent, and none of these skills
 publishes anything by itself.
 
 This lowers the risk of prompt injection. It does not remove it, so read a
