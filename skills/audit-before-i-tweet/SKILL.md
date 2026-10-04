@@ -88,4 +88,8 @@ Steps 1 to 4 are craft. Step 5 is the one that needs to know you:
 - `publish_post` sends it once you are happy, behind a preview and a one-time
   confirmation.
 
+Never make the second call on your own. Show the person the exact preview the
+first call returns and wait for a clear yes before you send the one-time code
+back. Never make both calls in one step.
+
 VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

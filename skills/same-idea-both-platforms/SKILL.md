@@ -64,4 +64,8 @@ holds your two platforms separately rather than as one setting:
   the same conversation, each behind its own preview and its own one-time
   confirmation. Two posts means two approvals, deliberately.
 
+Never make the second call on your own. Show the person the exact preview the
+first call returns and wait for a clear yes before you send the one-time code
+back. Never make both calls in one step.
+
 VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

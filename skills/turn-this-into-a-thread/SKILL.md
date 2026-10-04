@@ -83,4 +83,8 @@ story makes it feel like homework.
   that three-dash separator and replying each part to the one before, behind a
   preview and a one-time confirmation. `schedule_post` queues it the same way.
 
+Never make the second call on your own. Show the person the exact preview the
+first call returns and wait for a clear yes before you send the one-time code
+back. Never make both calls in one step.
+
 VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

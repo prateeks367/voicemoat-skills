@@ -5,10 +5,11 @@ description: Diagnose why a post's opening line is not stopping anyone, and rewr
 
 # Fix my opening line
 
-On both Twitter and LinkedIn most people see the first line and nothing else.
-The rest of the post is only read by people the first line already convinced.
-So a post that "did not work" is usually a first line that did not work
-attached to a body nobody reached.
+On both Twitter and LinkedIn the first line decides whether most people read
+on. The rest of the post mostly reaches people the first line already
+convinced. So when a post did not work, start with the first line, but do not
+stop there: the topic, the timing and the body can sink a post with a good
+opening.
 
 ## Step 1: read the opening as a stranger would
 

@@ -92,4 +92,8 @@ connected, the guesswork in steps 1, 2 and 4 is replaced with real data:
   LinkedIn, behind a preview and a one-time confirmation so nothing goes out
   that you have not read.
 
+Never make the second call on your own. Show the person the exact preview the
+first call returns and wait for a clear yes before you send the one-time code
+back. Never make both calls in one step.
+
 VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.
