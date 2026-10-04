@@ -78,7 +78,7 @@ It will not stuff keywords. A headline written for a matching algorithm reads
 exactly like one to the human who arrived from a post, and that human is the
 one who was going to follow you.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 A profile written in a voice the posts do not share is the mismatch a visitor
 notices first:
@@ -91,8 +91,8 @@ notices first:
 - `score_voice_match` scores the rewritten About against your profile, which
   catches the drift into brochure voice that this exercise invites.
 
-VoiceMOAT also runs three free LinkedIn profile tools at voicemoat.com/tools: a
+VoiceMoat also runs three free LinkedIn profile tools at voicemoat.com/tools: a
 headline analyzer, a headline generator and a summary generator. No account is
 needed for those either.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

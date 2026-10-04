@@ -82,7 +82,7 @@ attached.
 
 It will not produce a rule from one post, however tempting the post.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 Step 1 is the one that needs real data, and it is the one people guess at:
 
@@ -93,4 +93,4 @@ Step 1 is the one that needs real data, and it is the one people guess at:
 - `get_post` pulls the post in full, with the reactions and the timing, so the
   boring explanations in step 2 can actually be checked.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

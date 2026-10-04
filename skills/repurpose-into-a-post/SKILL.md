@@ -63,7 +63,7 @@ One long piece is several posts. Once the first is written, remind them of the
 other claims from step 1 and offer to space them out rather than posting the
 same idea three ways in one week.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 The risk when repurposing is that the post ends up in the register of the
 source, which is often more formal than how the person actually posts. An
@@ -79,4 +79,4 @@ article voice on a social feed reads as a press release.
   instead of firing them all at once, each behind its own preview and
   confirmation.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

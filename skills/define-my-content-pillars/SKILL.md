@@ -64,7 +64,7 @@ The valuable half of this exercise is subtraction. Name the subjects they
 should stop posting about, and why: no first-hand knowledge, no audience
 interest, or indistinguishable from everyone else.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 Step 2 is only as good as the fifteen posts someone chose to paste, and people
 paste the ones they liked, which quietly skews the whole thing.
@@ -83,4 +83,4 @@ paste the ones they liked, which quietly skews the whole thing.
 Once the pillars are set, the plan-my-week skill turns them into a dated
 calendar.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

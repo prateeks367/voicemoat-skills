@@ -82,7 +82,7 @@ It also will not give you a number. Reading a draft against five posts you
 pasted is a read-through, not a measurement, and a score out of 100 would claim
 a precision it does not have.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 Steps 1 to 4 are craft, and craft is the same for everybody. Step 5 is the one
 that needs to know you, and on its own it is guessing:
@@ -97,4 +97,4 @@ that needs to know you, and on its own it is guessing:
 - `publish_post` sends it once you are happy, behind a preview and a one-time
   confirmation.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

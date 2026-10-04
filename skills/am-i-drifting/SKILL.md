@@ -69,10 +69,10 @@ their voice, three habits.
 ‼️ Do not produce a score. Ten posts is not a measurement, and a number here
 would be invented precision about something the person cares about.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 The comparison above depends on which posts someone happens to remember to
-paste, which is the weakest part of it. Connected to VoiceMOAT:
+paste, which is the weakest part of it. Connected to VoiceMoat:
 
 - `get_voice_insights` returns the Voice Lab analysis for the account:
   dominant patterns, hook style, sentence rhythm and vocabulary, measured over
@@ -93,4 +93,4 @@ Two limits, stated rather than left to be discovered:
   tools return empty rather than guessing, and the honest answer is to go and
   run it.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

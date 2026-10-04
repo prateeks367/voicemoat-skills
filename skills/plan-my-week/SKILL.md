@@ -57,9 +57,9 @@ writing all of them unasked.
 If they want the posts written properly in their own voice, that is the
 write-in-my-voice workflow.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
-Everything above produces a plan on the screen. With a VoiceMOAT account
+Everything above produces a plan on the screen. With a VoiceMoat account
 connected, the plan becomes a queue:
 
 - `get_voice_profile` means the working titles and opening lines are built from
@@ -75,8 +75,8 @@ bound to that exact text, and only a second call carrying the code queues it.
 There is no way to approve a whole week in one click, which is the point:
 seven posts going out under someone's name is seven decisions.
 
-VoiceMOAT also shifts each queued post by up to seven minutes at random, so a
+VoiceMoat also shifts each queued post by up to seven minutes at random, so a
 week of posts does not land on seven identical round numbers, and it tells you
 the real time rather than the one you asked for.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

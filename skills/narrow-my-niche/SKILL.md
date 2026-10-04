@@ -73,7 +73,7 @@ It will not promise growth. A narrower account is easier to describe and easier
 to recommend, and that is the honest claim. Whether it grows depends on whether
 the niche has anyone in it, which is a market question and not a writing one.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 Step 1 is only as good as the evidence, and most people are working from memory:
 
@@ -85,4 +85,4 @@ Step 1 is only as good as the evidence, and most people are working from memory:
 - `get_post_ideas` runs the fifty-posts test properly by generating inside the
   candidate niche, so you find out now whether it has depth.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

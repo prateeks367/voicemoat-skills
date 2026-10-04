@@ -116,6 +116,8 @@ This matters more once a connector with publishing tools is attached. Nothing in
 those skills can publish: on VoiceMoat, posting takes a second call you confirm,
 and the preview shows the exact words first.
 
+To report a security problem, see [SECURITY.md](SECURITY.md).
+
 ## What is not here
 
 No statistics. Hook collections circulate with percentages attached, sourced to

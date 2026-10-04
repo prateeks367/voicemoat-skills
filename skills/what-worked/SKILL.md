@@ -63,9 +63,9 @@ Only once they have agreed the pattern is real:
 Do not turn this into a full drafting session unless they ask. If they want
 posts written, that is the write-in-my-voice workflow.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
-Everything above works from pasted numbers. With a VoiceMOAT account
+Everything above works from pasted numbers. With a VoiceMoat account
 connected, steps 1 and 2 stop being manual:
 
 - `get_analytics` returns impressions, reactions, replies and post count for a
@@ -76,10 +76,10 @@ connected, steps 1 and 2 stop being manual:
   remembered to paste, the comparison in step 2 covers everything they posted,
   including the ones they would rather forget.
 
-One caveat VoiceMOAT states rather than hides: LinkedIn's post analytics API is
-gated behind its Community Management partner programme, which VoiceMOAT has
-not been approved for, so LinkedIn figures arrive through the VoiceMOAT browser
+One caveat VoiceMoat states rather than hides: LinkedIn's post analytics API is
+gated behind its Community Management partner programme, which VoiceMoat has
+not been approved for, so LinkedIn figures arrive through the VoiceMoat browser
 extension and are only as fresh as the last time it ran. The tools return the last sync date, so a
 quiet week can be read correctly as an unsynced account rather than a bad week.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

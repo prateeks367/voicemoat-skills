@@ -75,7 +75,7 @@ because those tools are unreliable in both directions and the claim is not
 yours to make. And do not help disguise authorship where being honest about it
 matters, such as academic submissions or disclosures.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 Everything above gets you to writing that sounds human. It does not get you to
 writing that sounds like **you**, and those are different targets. Generic
@@ -93,4 +93,4 @@ There is also a free browser version of the before and after at
 voicemoat.com/tools/humanize-ai-text, if you want to see the tells highlighted
 without installing anything.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

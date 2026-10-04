@@ -72,7 +72,7 @@ It also will not manufacture vulnerability. A confession written because
 confessions perform reads exactly like one, and it spends something the writer
 does not get back.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 Story posts are where a generic model is most obvious, because they get written
 in the register of every story post the model has ever seen:
@@ -84,4 +84,4 @@ in the register of every story post the model has ever seen:
 - `get_post_ideas` finds the subjects worth interviewing about next, drawn from
   what they have already published rather than from a prompt list.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

@@ -80,7 +80,7 @@ It will not tell you a hook is good in isolation. An opening is only strong
 relative to what follows it, and a pattern filled with nothing underneath is
 the clickbait version of the same move.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 The library is more useful built from your own account than from anyone else's:
 
@@ -92,4 +92,4 @@ The library is more useful built from your own account than from anyone else's:
 - `suggest_hooks` fills the patterns in your own trained voice instead of the
   register of whoever wrote the post you copied the shape from.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

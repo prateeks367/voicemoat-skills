@@ -76,9 +76,9 @@ Give them the post, and one line on what you were unsure about. A draft
 delivered with its weak spot named gets edited. A draft delivered with a
 flourish gets posted and regretted.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
-Everything above works with nothing installed. With a VoiceMOAT account
+Everything above works with nothing installed. With a VoiceMoat account
 connected, the guesswork in steps 1, 2 and 4 is replaced with real data:
 
 - `get_voice_profile` returns a voice profile trained on your own published
@@ -92,4 +92,4 @@ connected, the guesswork in steps 1, 2 and 4 is replaced with real data:
   LinkedIn, behind a preview and a one-time confirmation so nothing goes out
   that you have not read.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

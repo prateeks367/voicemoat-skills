@@ -59,7 +59,7 @@ Also refuse to make the opening better by making it untrue. Curiosity built on
 a claim the post does not deliver is the fastest way to lose the readers it
 wins.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 The angles above are craft, and craft is generic. What is not generic is
 whether the new opening sounds like you and whether openings like it have
@@ -77,4 +77,4 @@ worked before:
 - `improve_post` runs the whole post through a deeper pass when the opening
   turns out not to be the only problem.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

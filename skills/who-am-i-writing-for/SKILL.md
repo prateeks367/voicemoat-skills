@@ -73,7 +73,7 @@ a stereotype with a slide.
 It will not invent a named character. If a name would help the writer, they can
 add one, knowing it is a device rather than a finding.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 Every step here is evidence work, which is exactly what a connected account
 supplies:
@@ -86,4 +86,4 @@ supplies:
 - `get_voice_insights` shows the patterns in what you publish, which is what
   lets you compare your vocabulary against theirs in step 4.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

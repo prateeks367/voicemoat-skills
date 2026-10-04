@@ -50,9 +50,9 @@ Read both back and look for the specific tells:
 Give both posts, then one line on what you changed and why. People cross-post
 badly because they think the difference is length. Show them it is structure.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
-This is the workflow that gains the most from connecting, because VoiceMOAT
+This is the workflow that gains the most from connecting, because VoiceMoat
 holds your two platforms separately rather than as one setting:
 
 - `get_voice_profile` is **per platform**. The Twitter profile and the LinkedIn
@@ -64,4 +64,4 @@ holds your two platforms separately rather than as one setting:
   the same conversation, each behind its own preview and its own one-time
   confirmation. Two posts means two approvals, deliberately.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

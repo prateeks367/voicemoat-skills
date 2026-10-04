@@ -63,16 +63,16 @@ First tweet text.
 Second tweet text.
 ```
 
-That is the separator VoiceMOAT uses to chain a thread, and it also just reads
+That is the separator VoiceMoat uses to chain a thread, and it also just reads
 cleanly if the person is posting by hand.
 
 Number the tweets only if the order is genuinely instructional. Numbering a
 story makes it feel like homework.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 - `get_voice_profile` means the thread sounds like your Twitter voice
-  specifically, which in VoiceMOAT is a separate trained profile from your
+  specifically, which in VoiceMoat is a separate trained profile from your
   LinkedIn one. Threads written in a LinkedIn register are a common and
   obvious failure.
 - `score_voice_match` scores the drafted thread against that profile.
@@ -83,4 +83,4 @@ story makes it feel like homework.
   that three-dash separator and replying each part to the one before, behind a
   preview and a one-time confirmation. `schedule_post` queues it the same way.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

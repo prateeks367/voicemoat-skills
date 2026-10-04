@@ -77,7 +77,7 @@ does not create them, and no bio has ever rescued an account nobody sees.
 It will not stuff keywords. A bio written for a search index reads like one to
 the person who arrived from a tweet, and they are the one deciding.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 A profile written in a register the tweets do not share is the mismatch a
 visitor notices first, and the person who wrote both cannot see it:
@@ -90,7 +90,7 @@ visitor notices first, and the person who wrote both cannot see it:
 - `score_voice_match` scores the rewritten bio against your profile, which
   catches the drift into brochure voice this exercise invites.
 
-VoiceMOAT also runs free Twitter profile tools at voicemoat.com/tools: a bio
+VoiceMoat also runs free Twitter profile tools at voicemoat.com/tools: a bio
 generator, a profile roast and an account audit. No account needed for those.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

@@ -72,7 +72,7 @@ It also will not write engagement bait. "Comment YES for the template" works in
 the narrow sense of producing comments, and it teaches people that replying to
 you is a transaction.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 An ending is the easiest place to slip into somebody else's register, because
 closing lines are the most copied sentences on both platforms:
@@ -85,4 +85,4 @@ closing lines are the most copied sentences on both platforms:
 - `improve_post` runs the whole post again when the ending turns out to be
   weak because the post never settled what it was for.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

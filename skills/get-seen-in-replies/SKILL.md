@@ -80,7 +80,7 @@ large the parent account is, and what happens under it afterwards.
 
 It will not write a reply engineered to provoke the author into responding.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 A reply carries your name at full size under somebody else's audience, which
 makes it a voice surface rather than a throwaway:
@@ -92,4 +92,4 @@ makes it a voice surface rather than a throwaway:
 - `get_post_ideas` turns a gap you found in someone else's tweet into your own
   post, which is generally the better use of it.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

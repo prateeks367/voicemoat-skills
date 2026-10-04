@@ -73,7 +73,7 @@ contract. Those go in the fourth bucket and go to a person.
 
 It will not write an apology on somebody's behalf for them to send unread.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 Replies are where voice slips most, because they are written fast and in volume:
 
@@ -85,4 +85,4 @@ Replies are where voice slips most, because they are written fast and in volume:
 - `score_voice_match` catches the drift into corporate voice across a run of
   replies, which nobody notices while writing them one at a time.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

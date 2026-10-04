@@ -65,7 +65,7 @@ End with a single thing to do differently next time, and say whether you expect
 it to matter a lot or a little. A list of six improvements gets none of them
 applied.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 The weakest part above is that everything depends on numbers someone typed in,
 and on their memory of what normal looks like.
@@ -81,9 +81,9 @@ and on their memory of what normal looks like.
   normally write, which is a cause people rarely consider and cannot see in
   their own writing.
 
-One caveat VoiceMOAT states rather than hides: LinkedIn figures arrive through
+One caveat VoiceMoat states rather than hides: LinkedIn figures arrive through
 the browser extension, so they are only as fresh as its last run. A post that
 looks like it got nothing may simply not have synced yet, and the tools return
 the last sync date so you can tell the difference.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

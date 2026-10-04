@@ -75,7 +75,7 @@ big the post gets and what the author does next.
 
 It also will not write a comment designed to bait the author into replying.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 A comment carries your name at full size, so it is a voice surface, not a
 throwaway:
@@ -88,4 +88,4 @@ throwaway:
 - `get_post_ideas` turns a gap you found in someone else's post into your own
   post, which is usually the better use of it.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

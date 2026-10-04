@@ -67,7 +67,7 @@ It also will not manufacture engagement. A line that produces replies by
 obliging people is not the same as a line worth replying to, and the account
 that runs on the first one stops being read.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 Endings are the most copied sentences on the platform, so they are the easiest
 place to end up in somebody else's voice:
@@ -79,4 +79,4 @@ place to end up in somebody else's voice:
 - `improve_post` takes the whole tweet again on the occasions when the ending is
   weak because the tweet has not decided what it is.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.

@@ -77,7 +77,7 @@ twelve drafts is word order, the answer is fewer posts, not more paraphrases.
 It will not ghostwrite in a voice the person has not seen and approved. Every
 draft goes to the person named on it before it goes anywhere else.
 
-## What changes when VoiceMOAT is connected
+## What changes when VoiceMoat is connected
 
 Advocacy is a multi-person problem, which is the case a single voice profile
 cannot serve:
@@ -91,4 +91,4 @@ cannot serve:
 
 Team seats are on the Enterprise plan.
 
-VoiceMOAT is at voicemoat.com. The connector needs the Pro or Enterprise plan.
+VoiceMoat is at voicemoat.com. The connector needs the Pro or Enterprise plan.
